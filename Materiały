@@ -1,0 +1,10 @@
+Zad I.2.c.
+
+Budowa:
+- Nieskończona taśma zawierająca komórki z przetwarzanymi symbolami
+- Ruchoma głowica zapisująco-odczytująca
+- Układ sterowania głowicą
+
+Działanie i budowa maszyny - https://eduinf.waw.pl/inf/prg/003_mt/0001.php
+
+Symulator - http://skinderowicz.pl/static/wdi/mt/mt.html
